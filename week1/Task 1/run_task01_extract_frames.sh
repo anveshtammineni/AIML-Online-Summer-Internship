@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vf fps=11/60 frame_%02d.png
