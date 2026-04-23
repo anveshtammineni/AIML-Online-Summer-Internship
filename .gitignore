@@ -1,0 +1,7 @@
+week4/Task2/dataset/images/
+week4/Task2/dataset/labels/
+week4/Task2/dataset/*.cache
+*.pt
+runs/
+output_images/
+__pycache__/
