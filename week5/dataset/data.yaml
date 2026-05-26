@@ -1,0 +1,8 @@
+path: D:/AIML/tasl1 iith/dataset
+
+train: images_resized/train
+val: images_resized/val
+
+names:
+  0: car
+  1: person
